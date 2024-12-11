@@ -26,5 +26,5 @@ Para reproducir este proyecto, necesitas tener instalado:
 ## **Instrucciones para Ejecutar**
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tu_usuario/prueba-objetiva-pln.git](https://github.com/leidysvalencia/Prueba-objetiva-PLN.git
+   git clone https://github.com/leidysvalencia/Prueba-objetiva-PLN.git
    cd prueba-objetiva-pln
